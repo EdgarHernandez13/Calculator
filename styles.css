@@ -56,11 +56,4 @@ button{
 .all{
     display: flex;
     width: 100%;
-    margin: auto;
-    justify-content: center;
-    align-items: center;
-}
-
-.double-widht{
-    width: 280px;
-}
+    margin: auto}
